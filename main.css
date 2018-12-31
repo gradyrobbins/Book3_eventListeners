@@ -1,0 +1,37 @@
+.blue {
+  color: blue;
+}
+
+.large {
+  font-size: large;
+}
+
+.bordered {
+  border: 3px dotted indigo;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+/* compliments Asia Carter */
+#article-container {
+  display: flex;
+  flex-direction: row;
+
+}
+
+#article1 {
+border: solid 1px burlywood;
+flex-basis: 50%;
+margin: 10px;
+padding: 25px;
+
+}
+
+#article2 {
+  border: solid 1px lightcoral;
+  flex-basis: 50%;
+  margin: 10px;
+  padding: 25px;
+}
